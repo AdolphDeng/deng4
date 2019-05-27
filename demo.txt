@@ -1,1 +1,3 @@
 ssh-keygen -t rsa -C "@qq.com"
+git clone
+git status
